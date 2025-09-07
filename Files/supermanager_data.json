@@ -1,0 +1,1412 @@
+[
+    {
+        "name": "S. Evans",
+        "position": 1,
+        "price": 770000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "M. Huertas",
+        "position": 1,
+        "price": 600000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "C. Jones",
+        "position": 1,
+        "price": 560000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "M. Howard",
+        "position": 1,
+        "price": 540000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "A. Smith",
+        "position": 1,
+        "price": 500000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "T. Satoransky",
+        "position": 1,
+        "price": 500000,
+        "team": "Barça"
+    },
+    {
+        "name": "C. Hannah",
+        "position": 1,
+        "price": 500000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "T. Carter",
+        "position": 1,
+        "price": 500000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "B. Fitipaldo",
+        "position": 1,
+        "price": 500000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "A. Renfroe",
+        "position": 1,
+        "price": 475000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "T. Trice",
+        "position": 1,
+        "price": 460000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "K. Perry",
+        "position": 1,
+        "price": 460000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "J. Novak",
+        "position": 1,
+        "price": 420000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "J. Harding",
+        "position": 1,
+        "price": 410000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "N. Laprovittola",
+        "position": 1,
+        "price": 400000,
+        "team": "Barça"
+    },
+    {
+        "name": "S. Rodríguez",
+        "position": 1,
+        "price": 400000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "L. Hakanson",
+        "position": 1,
+        "price": 395000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "J. Harper",
+        "position": 1,
+        "price": 390000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "F. Ferrari",
+        "position": 1,
+        "price": 375000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "L. Westermann",
+        "position": 1,
+        "price": 370000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "D. Pérez",
+        "position": 1,
+        "price": 365000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "A. Albicy",
+        "position": 1,
+        "price": 360000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "R. Jokubaitis",
+        "position": 1,
+        "price": 330000,
+        "team": "Barça"
+    },
+    {
+        "name": "N. Radicevic",
+        "position": 1,
+        "price": 320000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "A. Díaz",
+        "position": 1,
+        "price": 320000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "M. Ponitka",
+        "position": 1,
+        "price": 310000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "G. Vives",
+        "position": 1,
+        "price": 310000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "J. Hollatz",
+        "position": 1,
+        "price": 310000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "Q. Colom",
+        "position": 1,
+        "price": 300000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "A. Feliz",
+        "position": 1,
+        "price": 290000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "F. Bassas",
+        "position": 1,
+        "price": 285000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "N.Williams-Goss",
+        "position": 1,
+        "price": 280000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "M. Hermannsson",
+        "position": 1,
+        "price": 260000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "S. Van Rossom",
+        "position": 1,
+        "price": 250000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "S. García",
+        "position": 1,
+        "price": 220000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "A. Ubal",
+        "position": 1,
+        "price": 200000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "T. Bellas",
+        "position": 1,
+        "price": 190000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "E. Quintela",
+        "position": 1,
+        "price": 190000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "P. Figueras",
+        "position": 1,
+        "price": 180000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "F. Zurbriggen",
+        "position": 1,
+        "price": 180000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "J. Franch",
+        "position": 1,
+        "price": 175000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "A. Cvetkovic",
+        "position": 1,
+        "price": 175000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "C. Díaz",
+        "position": 1,
+        "price": 175000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "C. Alocén",
+        "position": 1,
+        "price": 160000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "L. Costa",
+        "position": 1,
+        "price": 150000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "P. Pozas",
+        "position": 1,
+        "price": 140000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "U. Klavzar",
+        "position": 1,
+        "price": 130000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "J. García",
+        "position": 1,
+        "price": 125000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "M. Saint-Supery",
+        "position": 1,
+        "price": 120000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "D. García",
+        "position": 1,
+        "price": 120000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "A. Kurucs",
+        "position": 1,
+        "price": 110000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "D. Musa",
+        "position": 3,
+        "price": 830000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "C. Higgins",
+        "position": 3,
+        "price": 600000,
+        "team": "Barça"
+    },
+    {
+        "name": "T. Scrubb",
+        "position": 3,
+        "price": 580000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "J. Anderson",
+        "position": 3,
+        "price": 540000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "K. Prepelic",
+        "position": 3,
+        "price": 540000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "N. Kalinic",
+        "position": 3,
+        "price": 510000,
+        "team": "Barça"
+    },
+    {
+        "name": "E. Cook",
+        "position": 3,
+        "price": 510000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "H. Sant-Roos",
+        "position": 3,
+        "price": 500000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "G. Deck",
+        "position": 3,
+        "price": 500000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "D. Thompson",
+        "position": 3,
+        "price": 500000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "N. Nenadic",
+        "position": 3,
+        "price": 500000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "R. Giedraitis",
+        "position": 3,
+        "price": 490000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "R. Kurucs",
+        "position": 3,
+        "price": 480000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "P. Scrubb",
+        "position": 3,
+        "price": 480000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "D. Brizuela",
+        "position": 3,
+        "price": 480000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "M. Hezonja",
+        "position": 3,
+        "price": 470000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "J. Radebaugh",
+        "position": 3,
+        "price": 460000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "K. Taylor",
+        "position": 3,
+        "price": 450000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "L. Kromah",
+        "position": 3,
+        "price": 450000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "J. Senglin",
+        "position": 3,
+        "price": 440000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "J. Parra",
+        "position": 3,
+        "price": 430000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "D. Radoncic",
+        "position": 3,
+        "price": 425000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "BJ Johnson",
+        "position": 3,
+        "price": 400000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "López-Arostegui",
+        "position": 3,
+        "price": 400000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "J. Fernández",
+        "position": 3,
+        "price": 400000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "N. Brussino",
+        "position": 3,
+        "price": 400000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "S. Bamforth",
+        "position": 3,
+        "price": 400000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "J. Hill",
+        "position": 3,
+        "price": 390000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "T. Kalinoski",
+        "position": 3,
+        "price": 390000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "K. Guy",
+        "position": 3,
+        "price": 390000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "P. Ribas",
+        "position": 3,
+        "price": 385000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "J. Davis",
+        "position": 3,
+        "price": 380000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "M. Paige",
+        "position": 3,
+        "price": 380000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "AJ Slaughter",
+        "position": 3,
+        "price": 370000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "R. Lomazs",
+        "position": 3,
+        "price": 360000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "T. McFadden",
+        "position": 3,
+        "price": 350000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "D. Díez",
+        "position": 3,
+        "price": 350000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "V. Benite",
+        "position": 3,
+        "price": 350000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "D. Todorovic",
+        "position": 3,
+        "price": 350000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "S. Llull",
+        "position": 3,
+        "price": 345000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "S. Yusta",
+        "position": 3,
+        "price": 340000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "A. Hanga",
+        "position": 3,
+        "price": 340000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "P. Garino",
+        "position": 3,
+        "price": 330000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "J. Jessup",
+        "position": 3,
+        "price": 325000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "T. Sedekerskis",
+        "position": 3,
+        "price": 325000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "T. Bropleh",
+        "position": 3,
+        "price": 325000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "M. Ejim",
+        "position": 3,
+        "price": 300000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "D. Bertans",
+        "position": 3,
+        "price": 300000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "A. Abrines",
+        "position": 3,
+        "price": 300000,
+        "team": "Barça"
+    },
+    {
+        "name": "X. Rabaseda",
+        "position": 3,
+        "price": 300000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "R. Fernández",
+        "position": 3,
+        "price": 300000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "V. Claver",
+        "position": 3,
+        "price": 300000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "S. Salin",
+        "position": 3,
+        "price": 300000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "G. Bortolani",
+        "position": 3,
+        "price": 290000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "K. Kuric",
+        "position": 3,
+        "price": 275000,
+        "team": "Barça"
+    },
+    {
+        "name": "V. Marinkovic",
+        "position": 3,
+        "price": 275000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "J. Vaulet",
+        "position": 3,
+        "price": 275000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "M. Salvó",
+        "position": 3,
+        "price": 275000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "T. Nakic",
+        "position": 3,
+        "price": 275000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "P. Tomàs",
+        "position": 3,
+        "price": 270000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "D. Jelinek",
+        "position": 3,
+        "price": 255000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "O. Paulí",
+        "position": 3,
+        "price": 250000,
+        "team": "Barça"
+    },
+    {
+        "name": "F. Alonso",
+        "position": 3,
+        "price": 250000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "F. Causeur",
+        "position": 3,
+        "price": 250000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "D. Walker",
+        "position": 3,
+        "price": 250000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "N. Dedovic",
+        "position": 3,
+        "price": 250000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "G. Jou",
+        "position": 3,
+        "price": 250000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "M. Fjellerup",
+        "position": 3,
+        "price": 240000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "S. Momirov",
+        "position": 3,
+        "price": 230000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "E. Valtonen",
+        "position": 3,
+        "price": 205000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "A. Abalde",
+        "position": 3,
+        "price": 200000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "C. Eyenga",
+        "position": 3,
+        "price": 200000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "J. Barreiro",
+        "position": 3,
+        "price": 200000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "B. Badio",
+        "position": 3,
+        "price": 200000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "S. Quintela",
+        "position": 3,
+        "price": 200000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "P. Almazán",
+        "position": 3,
+        "price": 190000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "P. Savkov",
+        "position": 3,
+        "price": 190000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "S. Rojas",
+        "position": 3,
+        "price": 180000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "P. Busquets",
+        "position": 3,
+        "price": 180000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "A. Reyes",
+        "position": 3,
+        "price": 170000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "E. Vicedo",
+        "position": 3,
+        "price": 170000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "J. Sastre",
+        "position": 3,
+        "price": 170000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "A. Ventura",
+        "position": 3,
+        "price": 160000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "R. Macoha",
+        "position": 3,
+        "price": 150000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "J. Puerto",
+        "position": 3,
+        "price": 150000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "O. Hanzlik",
+        "position": 3,
+        "price": 140000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "Á. Muñoz",
+        "position": 3,
+        "price": 140000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "S. Rodríguez",
+        "position": 3,
+        "price": 140000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "S. Martínez",
+        "position": 3,
+        "price": 125000,
+        "team": "Barça"
+    },
+    {
+        "name": "T. Rigo",
+        "position": 3,
+        "price": 125000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "Z. Maronka",
+        "position": 3,
+        "price": 125000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "M. Caicedo",
+        "position": 3,
+        "price": 120000,
+        "team": "Barça"
+    },
+    {
+        "name": "M. Jiménez",
+        "position": 3,
+        "price": 120000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "Y. Kraag",
+        "position": 3,
+        "price": 120000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "D. Mutaf",
+        "position": 3,
+        "price": 115000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "S. Raieste",
+        "position": 3,
+        "price": 110000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "J. Kljajic",
+        "position": 3,
+        "price": 110000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "M. Allen",
+        "position": 3,
+        "price": 100000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "G. Shermadini",
+        "position": 5,
+        "price": 900000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "A. Tomic",
+        "position": 5,
+        "price": 820000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "W. Tavares",
+        "position": 5,
+        "price": 770000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "N. Mirotic",
+        "position": 5,
+        "price": 750000,
+        "team": "Barça"
+    },
+    {
+        "name": "B. Dubljevic",
+        "position": 5,
+        "price": 670000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "J. Vesely",
+        "position": 5,
+        "price": 650000,
+        "team": "Barça"
+    },
+    {
+        "name": "A. Lima",
+        "position": 5,
+        "price": 600000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "C. Felicio",
+        "position": 5,
+        "price": 600000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "M. Kyser",
+        "position": 5,
+        "price": 575000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "V. Poirier",
+        "position": 5,
+        "price": 575000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "G. Yabusele",
+        "position": 5,
+        "price": 550000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "D. Inglis",
+        "position": 5,
+        "price": 550000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "M. Costello",
+        "position": 5,
+        "price": 510000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "J. Shurna",
+        "position": 5,
+        "price": 510000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "J. Hamilton",
+        "position": 5,
+        "price": 500000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "M. Kotsar",
+        "position": 5,
+        "price": 480000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "D. Ristic",
+        "position": 5,
+        "price": 475000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "C. Mekowulu",
+        "position": 5,
+        "price": 470000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "V. Gerun",
+        "position": 5,
+        "price": 450000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "A. Pustovyi",
+        "position": 5,
+        "price": 450000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "D. Osetkowski",
+        "position": 5,
+        "price": 450000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "J. Rivero",
+        "position": 5,
+        "price": 450000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "W. Howard",
+        "position": 5,
+        "price": 450000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "T. Abromaitis",
+        "position": 5,
+        "price": 450000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "L. Maye",
+        "position": 5,
+        "price": 450000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "J. Withey",
+        "position": 5,
+        "price": 440000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "J. Webb",
+        "position": 5,
+        "price": 440000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "M. Tobey",
+        "position": 5,
+        "price": 430000,
+        "team": "Barça"
+    },
+    {
+        "name": "D. Kravish",
+        "position": 5,
+        "price": 430000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "M. Lukovic",
+        "position": 5,
+        "price": 430000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "D. Bender",
+        "position": 5,
+        "price": 420000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "K. Alexander",
+        "position": 5,
+        "price": 420000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "S. Enoch",
+        "position": 5,
+        "price": 415000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "H. Ellenson",
+        "position": 5,
+        "price": 415000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "R. Luther",
+        "position": 5,
+        "price": 400000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "O. Da Silva",
+        "position": 5,
+        "price": 390000,
+        "team": "Barça"
+    },
+    {
+        "name": "M. Blazevic",
+        "position": 5,
+        "price": 390000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "E. Happ",
+        "position": 5,
+        "price": 385000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "R. Prkacin",
+        "position": 5,
+        "price": 380000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "W. Thomas",
+        "position": 5,
+        "price": 380000,
+        "team": "Unicaja"
+    },
+    {
+        "name": "M. Lee",
+        "position": 5,
+        "price": 380000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "J. Pradilla",
+        "position": 5,
+        "price": 380000,
+        "team": "Valencia Basket"
+    },
+    {
+        "name": "K. Diop",
+        "position": 5,
+        "price": 380000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "S. Sanli",
+        "position": 5,
+        "price": 375000,
+        "team": "Barça"
+    },
+    {
+        "name": "D. Hommes",
+        "position": 5,
+        "price": 365000,
+        "team": "Cazoo Baskonia"
+    },
+    {
+        "name": "I. Cruz",
+        "position": 5,
+        "price": 360000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "B. Simanic",
+        "position": 5,
+        "price": 350000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "T. Pérez",
+        "position": 5,
+        "price": 350000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "T. Hlinason",
+        "position": 5,
+        "price": 330000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "B. Olumuyiwa",
+        "position": 5,
+        "price": 320000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "D. Andersson",
+        "position": 5,
+        "price": 310000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "P. Cornelie",
+        "position": 5,
+        "price": 310000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "V. Okouo",
+        "position": 5,
+        "price": 300000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "N. Radovic",
+        "position": 5,
+        "price": 300000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "A. Sylla",
+        "position": 5,
+        "price": 275000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "S. Birgander",
+        "position": 5,
+        "price": 275000,
+        "team": "Joventut Badalona"
+    },
+    {
+        "name": "F. Guerra",
+        "position": 5,
+        "price": 265000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "E. Sulejmanovic",
+        "position": 5,
+        "price": 260000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "L. Brajkovic",
+        "position": 5,
+        "price": 260000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "D. Miletić",
+        "position": 5,
+        "price": 250000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "M. Nguirane",
+        "position": 5,
+        "price": 250000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "V. Arteaga",
+        "position": 5,
+        "price": 250000,
+        "team": "Río Breogán"
+    },
+    {
+        "name": "E. Báez",
+        "position": 5,
+        "price": 240000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "J. Sakho",
+        "position": 5,
+        "price": 240000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "A. Doornekamp",
+        "position": 5,
+        "price": 225000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "J. Diaz",
+        "position": 5,
+        "price": 225000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "I. Diop",
+        "position": 5,
+        "price": 200000,
+        "team": "UCAM Murcia"
+    },
+    {
+        "name": "A. Suárez",
+        "position": 5,
+        "price": 200000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "A. Balcerowski",
+        "position": 5,
+        "price": 200000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "M. Niang",
+        "position": 5,
+        "price": 200000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "J. Sorolla",
+        "position": 5,
+        "price": 190000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "R. Guerrero",
+        "position": 5,
+        "price": 190000,
+        "team": "Monbus Obradoiro"
+    },
+    {
+        "name": "R. Vilà",
+        "position": 5,
+        "price": 190000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "I. Rosa",
+        "position": 5,
+        "price": 185000,
+        "team": "Surne Bilbao Basket"
+    },
+    {
+        "name": "A. Randolph",
+        "position": 5,
+        "price": 180000,
+        "team": "Real Madrid"
+    },
+    {
+        "name": "O. Ehigiator",
+        "position": 5,
+        "price": 175000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "M. Diagné",
+        "position": 5,
+        "price": 175000,
+        "team": "Lenovo Tenerife"
+    },
+    {
+        "name": "E. Vila",
+        "position": 5,
+        "price": 170000,
+        "team": "Bàsquet Girona"
+    },
+    {
+        "name": "Y. Nzosa",
+        "position": 5,
+        "price": 170000,
+        "team": "Coosur Real Betis"
+    },
+    {
+        "name": "J. Fernández",
+        "position": 5,
+        "price": 170000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "O. Stevic",
+        "position": 5,
+        "price": 170000,
+        "team": "Gran Canaria"
+    },
+    {
+        "name": "D. Iriarte",
+        "position": 5,
+        "price": 160000,
+        "team": "Coviran Granada"
+    },
+    {
+        "name": "B. Bagayoko",
+        "position": 5,
+        "price": 140000,
+        "team": "Carplus Fuenlabrada"
+    },
+    {
+        "name": "A. Mara",
+        "position": 5,
+        "price": 125000,
+        "team": "Casademont Zaragoza"
+    },
+    {
+        "name": "M. Steinbergs",
+        "position": 5,
+        "price": 110000,
+        "team": "BAXI Manresa"
+    },
+    {
+        "name": "E. Ndiaye",
+        "position": 5,
+        "price": 100000,
+        "team": "Real Madrid"
+    }
+]

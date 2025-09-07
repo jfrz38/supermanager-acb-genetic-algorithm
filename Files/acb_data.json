@@ -1,0 +1,1430 @@
+[
+    {
+        "team": "BARÇA",
+        "players": [
+            {
+                "name": "OSCAR LEON DA SILVA",
+                "position": " ",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "ORIOL PAULÍ",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 285
+            },
+            {
+                "name": "SERTAÇ SANLI",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 216
+            },
+            {
+                "name": "JAN VESELY",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "SERGI MARTÍNEZ",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 100
+            },
+            {
+                "name": "NIKOLA KALINIC",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "TOMAS SATORANSKY",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "NICO LAPROVITTOLA",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 405
+            },
+            {
+                "name": "ÁLEX ABRINES",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 128
+            },
+            {
+                "name": "CORY HIGGINS",
+                "position": "A",
+                "permiso": "EXT",
+                "value": 178
+            },
+            {
+                "name": "MIKE TOBEY",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 206
+            },
+            {
+                "name": "KYLE KURIC",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 268
+            },
+            {
+                "name": "ROKAS JOKUBAITIS",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 324
+            },
+            {
+                "name": "NIKOLA MIROTIC",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 678
+            }
+        ]
+    },
+    {
+        "team": "BAXI MANRESA",
+        "players": [
+            {
+                "name": "GIORDANO BORTOLANI",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "JERRICK HARDING",
+                "position": "B",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "TYSON PÉREZ",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "GUILLEM JOU",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 80
+            },
+            {
+                "name": "DANI GARCÍA",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 59
+            },
+            {
+                "name": "ELIAS VALTONEN",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 180
+            },
+            {
+                "name": "BABATUNDE OLUMUYIWA",
+                "position": "P",
+                "permiso": "COT",
+                "value": 214
+            },
+            {
+                "name": "JUAMPI VAULET",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 149
+            },
+            {
+                "name": "MARCUS LEE",
+                "position": "P",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "JUSTIN HAMILTON",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "DANI PÉREZ",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 301
+            },
+            {
+                "name": "BRANCOU BADIO",
+                "position": "E",
+                "permiso": "COT",
+                "value": 6
+            }
+        ]
+    },
+    {
+        "team": "BÀSQUET GIRONA",
+        "players": [
+            {
+                "name": "MÁXIMO FJELLERUP",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "ERIC VILA",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "KAMERON TAYLOR",
+                "position": "E",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "POL FIGUERAS",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "ROKO PRKACIN",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "QUINO COLOM",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "DUŠAN MILETIĆ",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "JOSEP FRANCH",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "ONDREJ HANZLIK",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "PATRICIO GARINO",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "JAUME SOROLLA",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "CARPLUS FUENLABRADA",
+        "players": [
+            {
+                "name": "JEREMY SENGLIN",
+                "position": "E",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "RODIJS MACOHA",
+                "position": "A",
+                "permiso": "JFL",
+                "value": -4
+            },
+            {
+                "name": "PAVEL SAVKOV",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "CLEVIN HANNAH",
+                "position": "B",
+                "permiso": "COT",
+                "value": 357
+            },
+            {
+                "name": "OSAS EHIGIATOR",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "DUSAN RISTIC",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 345
+            },
+            {
+                "name": "JUAN FERNÁNDEZ",
+                "position": "AP",
+                "permiso": "EXT",
+                "value": 7
+            },
+            {
+                "name": "LASAN KROMAH",
+                "position": "A",
+                "permiso": "COT",
+                "value": 0
+            },
+            {
+                "name": "JOVAN NOVAK",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 387
+            },
+            {
+                "name": "CHRISTIAN EYENGA",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 77
+            },
+            {
+                "name": "VINY OKOUO",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 144
+            }
+        ]
+    },
+    {
+        "team": "CASADEMONT ZARAGOZA",
+        "players": [
+            {
+                "name": "SANTI YUSTA",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 157
+            },
+            {
+                "name": "FRANKIE FERRARI",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 57
+            },
+            {
+                "name": "DINO RADONCIC",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 341
+            },
+            {
+                "name": "JUSTINIAN JESSUP",
+                "position": "E",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "MARCEL PONITKA",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "RIHARDS LOMAZS",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "MAODO NGUIRANE",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "CHRISTIAN MEKOWULU",
+                "position": "P",
+                "permiso": "COT",
+                "value": 98
+            },
+            {
+                "name": "BORISA SIMANIC",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "TRYGGVI HLINASON",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 287
+            },
+            {
+                "name": "JAVI GARCÍA",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 8
+            },
+            {
+                "name": "HOWARD SANT-ROOS",
+                "position": "A",
+                "permiso": "EXT",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "CAZOO BASKONIA",
+        "players": [
+            {
+                "name": "SANDER RAIESTE",
+                "position": "E",
+                "permiso": "JFL",
+                "value": -5
+            },
+            {
+                "name": "TADAS SEDEKERSKIS",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 275
+            },
+            {
+                "name": "VANJA MARINKOVIC",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 124
+            },
+            {
+                "name": "DANI DÍEZ",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 327
+            },
+            {
+                "name": "DARIUS THOMPSON",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "MAIK KOTSAR",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "STEVEN ENOCH",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 409
+            },
+            {
+                "name": "MATT COSTELLO",
+                "position": "P",
+                "permiso": "COT",
+                "value": 445
+            },
+            {
+                "name": "ROKAS GIEDRAITIS",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 418
+            },
+            {
+                "name": "DAULTON HOMMES",
+                "position": "AP",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "ARTURS KURUCS",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 72
+            },
+            {
+                "name": "MARKUS HOWARD",
+                "position": "B",
+                "permiso": "EXT",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "COOSUR REAL BETIS",
+        "players": [
+            {
+                "name": "BJ JOHNSON III",
+                "position": "E",
+                "permiso": "EXT",
+                "value": 83
+            },
+            {
+                "name": "YANNICK NZOSA",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 53
+            },
+            {
+                "name": "ALEKSANDAR CVETKOVIC",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 89
+            },
+            {
+                "name": "JEREMIAH HILL",
+                "position": "E",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "PABLO ALMAZÁN",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 135
+            },
+            {
+                "name": "SHANNON EVANS",
+                "position": "B",
+                "permiso": "COT",
+                "value": 649
+            },
+            {
+                "name": "DAIRIS BERTANS",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 210
+            },
+            {
+                "name": "RODIONS KURUCS",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "EULIS BÁEZ",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 134
+            },
+            {
+                "name": "PEPE POZAS",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 34
+            },
+            {
+                "name": "VOLODYMYR GERUN",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "AMAR SYLLA",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "COVIRAN GRANADA",
+        "players": [
+            {
+                "name": "CRISTIANO FELICIO",
+                "position": "P",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "THOMAS BROPLEH",
+                "position": "A",
+                "permiso": "COT",
+                "value": 0
+            },
+            {
+                "name": "MAMADOU NIANG",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "ALEX RENFROE",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 328
+            },
+            {
+                "name": "RAMON VILÀ",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 26
+            },
+            {
+                "name": "CHRISTIAN DÍAZ",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "LLUIS COSTA",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "PERE TOMÀS",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "DEJAN TODOROVIC",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 89
+            },
+            {
+                "name": "DAVID IRIARTE",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "LUKE MAYE",
+                "position": "AP",
+                "permiso": "EXT",
+                "value": 215
+            },
+            {
+                "name": "JACOBO DIAZ",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "GRAN CANARIA",
+        "players": [
+            {
+                "name": "OLEK BALCEROWSKI",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 44
+            },
+            {
+                "name": "JOVAN KLJAJIC",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "AJ SLAUGHTER",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 295
+            },
+            {
+                "name": "ANDREW ALBICY",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 237
+            },
+            {
+                "name": "VITOR BENITE",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 251
+            },
+            {
+                "name": "NICO BRUSSINO",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 308
+            },
+            {
+                "name": "MIQUEL SALVÓ",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 250
+            },
+            {
+                "name": "JOHN SHURNA",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 383
+            },
+            {
+                "name": "KHALIFA DIOP",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 277
+            },
+            {
+                "name": "FERRAN BASSAS",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 138
+            },
+            {
+                "name": "OLIVER STEVIC",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 100
+            },
+            {
+                "name": "DAMIEN INGLIS",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 324
+            }
+        ]
+    },
+    {
+        "team": "JOVENTUT BADALONA",
+        "players": [
+            {
+                "name": "PEP BUSQUETS",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 76
+            },
+            {
+                "name": "PAU RIBAS",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 433
+            },
+            {
+                "name": "HENRY ELLENSON",
+                "position": "AP",
+                "permiso": "EXT",
+                "value": 327
+            },
+            {
+                "name": "KYLE GUY",
+                "position": "E",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "ALBERT VENTURA",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 82
+            },
+            {
+                "name": "GUILLEM VIVES",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 322
+            },
+            {
+                "name": "ANDRES FELIZ",
+                "position": "B",
+                "permiso": "COT",
+                "value": 180
+            },
+            {
+                "name": "WILLIAM HOWARD",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "SIMON BIRGANDER",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 261
+            },
+            {
+                "name": "JOEL PARRA",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 424
+            },
+            {
+                "name": "ZSOMBOR MARONKA",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 4
+            },
+            {
+                "name": "ANTE TOMIC",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 790
+            }
+        ]
+    },
+    {
+        "team": "LENOVO TENERIFE",
+        "players": [
+            {
+                "name": "JAIME FERNÁNDEZ",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 235
+            },
+            {
+                "name": "SERGIO RODRÍGUEZ",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 54
+            },
+            {
+                "name": "BRUNO FITIPALDO",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 449
+            },
+            {
+                "name": "MARCELINHO HUERTAS",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 528
+            },
+            {
+                "name": "SASU SALIN",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 329
+            },
+            {
+                "name": "MOUSSA DIAGNE",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 156
+            },
+            {
+                "name": "JOAN SASTRE",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 166
+            },
+            {
+                "name": "GIORGI SHERMADINI",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 664
+            },
+            {
+                "name": "TIM ABROMAITIS",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 342
+            },
+            {
+                "name": "ELGIN COOK",
+                "position": "A",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "IVÁN CRUZ",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 297
+            },
+            {
+                "name": "FRAN GUERRA",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 271
+            },
+            {
+                "name": "AARON DOORNEKAMP",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 220
+            }
+        ]
+    },
+    {
+        "team": "MONBUS OBRADOIRO",
+        "players": [
+            {
+                "name": "THOMAS SCRUBB",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 462
+            },
+            {
+                "name": "DRAGAN BENDER",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "MARCUS PAIGE",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "FERNANDO ZURBRIGGEN",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 123
+            },
+            {
+                "name": "LEO WESTERMANN",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "PHIL SCRUBB",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 140
+            },
+            {
+                "name": "DAVID WALKER",
+                "position": "A",
+                "permiso": "EXT",
+                "value": 66
+            },
+            {
+                "name": "RUBÉN GUERRERO",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 147
+            },
+            {
+                "name": "ÁLVARO MUÑOZ",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 66
+            },
+            {
+                "name": "ÁLEX SUÁREZ",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 123
+            },
+            {
+                "name": "EDGAR VICEDO",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 71
+            }
+        ]
+    },
+    {
+        "team": "REAL MADRID",
+        "players": [
+            {
+                "name": "FABIEN CAUSEUR",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 243
+            },
+            {
+                "name": "ANTHONY RANDOLPH",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 117
+            },
+            {
+                "name": "RUDY FERNÁNDEZ",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 174
+            },
+            {
+                "name": "ALBERTO ABALDE",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 189
+            },
+            {
+                "name": "ADAM HANGA",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 360
+            },
+            {
+                "name": "MARIO HEZONJA",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "CARLOS ALOCÉN",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 27
+            },
+            {
+                "name": "SERGIO RODRÍGUEZ",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "GABRIEL DECK",
+                "position": "A",
+                "permiso": "EXT",
+                "value": 276
+            },
+            {
+                "name": "VINCENT POIRIER",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 581
+            },
+            {
+                "name": "PETR CORNELIE",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "EDY TAVARES",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 716
+            },
+            {
+                "name": "SERGIO LLULL",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 261
+            },
+            {
+                "name": "GUERSCHON YABUSELE",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 554
+            },
+            {
+                "name": "DZANAN MUSA",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 670
+            },
+            {
+                "name": "NIGEL WILLIAMS-GOSS",
+                "position": "B",
+                "permiso": "EXT",
+                "value": 207
+            }
+        ]
+    },
+    {
+        "team": "RÍO BREOGÁN",
+        "players": [
+            {
+                "name": "SCOTT BAMFORTH",
+                "position": "E",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "STEFAN MOMIROV",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "SERGI GARCÍA",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 9
+            },
+            {
+                "name": "MARKO LUKOVIC",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 343
+            },
+            {
+                "name": "NEMANJA NENADIC",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "JUSTUS HOLLATZ",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "ETHAN HAPP",
+                "position": "P",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "ERIK QUINTELA",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 98
+            },
+            {
+                "name": "LUKA BRAJKOVIC",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "SERGI QUINTELA",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 173
+            },
+            {
+                "name": "VÍCTOR ARTEAGA",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 234
+            },
+            {
+                "name": "TONI NAKIC",
+                "position": "A",
+                "permiso": "EUR",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "SURNE BILBAO BASKET",
+        "players": [
+            {
+                "name": "JEFF WITHEY",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 325
+            },
+            {
+                "name": "ADAM SMITH",
+                "position": "B",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "NIKOLA RADICEVIC",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "DENZEL ANDERSSON",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "TOMEU RIGO",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 11
+            },
+            {
+                "name": "ÁLEX REYES",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 119
+            },
+            {
+                "name": "FRANCIS ALONSO",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 158
+            },
+            {
+                "name": "LUDDE HAKANSON",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 282
+            },
+            {
+                "name": "XAVI RABASEDA",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 234
+            },
+            {
+                "name": "MICHALE KYSER",
+                "position": "P",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "IGNACIO ROSA",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "AGUSTÍN UBAL",
+                "position": "B",
+                "permiso": "EUR",
+                "value": -2
+            },
+            {
+                "name": "EMIR SULEJMANOVIC",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 144
+            }
+        ]
+    },
+    {
+        "team": "UCAM MURCIA",
+        "players": [
+            {
+                "name": "JORDAN DAVIS",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 318
+            },
+            {
+                "name": "RYAN LUTHER",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "TOMÁS BELLAS",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 156
+            },
+            {
+                "name": "NEMANJA RADOVIC",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 237
+            },
+            {
+                "name": "THAD MCFADDEN",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 289
+            },
+            {
+                "name": "ARTEM PUSTOVYI",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 328
+            },
+            {
+                "name": "JORDAN SAKHO",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 179
+            },
+            {
+                "name": "ILIMANE DIOP",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 58
+            },
+            {
+                "name": "JAMES ANDERSON",
+                "position": "A",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "DAVID JELÍNEK",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 156
+            },
+            {
+                "name": "SADIEL ROJAS",
+                "position": "A",
+                "permiso": "COT",
+                "value": 128
+            },
+            {
+                "name": "TRAVIS TRICE",
+                "position": "B",
+                "permiso": "EXT",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "UNICAJA",
+        "players": [
+            {
+                "name": "DYLAN OSETKOWSKI",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "TYLER KALINOSKI",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 345
+            },
+            {
+                "name": "AUGUSTO LIMA",
+                "position": "P",
+                "permiso": "JFL",
+                "value": 498
+            },
+            {
+                "name": "JONATHAN BARREIRO",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 167
+            },
+            {
+                "name": "DARÍO BRIZUELA",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 348
+            },
+            {
+                "name": "ALBERTO DÍAZ",
+                "position": "B",
+                "permiso": "JFL",
+                "value": 262
+            },
+            {
+                "name": "TYSON CARTER",
+                "position": "B",
+                "permiso": "EXT",
+                "value": 0
+            },
+            {
+                "name": "NIHAD DJEDOVIC",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 0
+            },
+            {
+                "name": "WILL THOMAS",
+                "position": "AP",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "MELVIN EJIM",
+                "position": "A",
+                "permiso": "COT",
+                "value": 0
+            },
+            {
+                "name": "DAVID KRAVISH",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "KENDRICK PERRY",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "team": "VALENCIA BASKET",
+        "players": [
+            {
+                "name": "VÍCTOR CLAVER",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 163
+            },
+            {
+                "name": "JOSEP PUERTO",
+                "position": "E",
+                "permiso": "JFL",
+                "value": 123
+            },
+            {
+                "name": "KLEMEN PREPELIC",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 202
+            },
+            {
+                "name": "JAIME PRADILLA",
+                "position": "AP",
+                "permiso": "JFL",
+                "value": 298
+            },
+            {
+                "name": "JAMES WEBB III",
+                "position": "AP",
+                "permiso": "EXT",
+                "value": 418
+            },
+            {
+                "name": "XABI LÓPEZ-AROSTEGUI",
+                "position": "A",
+                "permiso": "JFL",
+                "value": 319
+            },
+            {
+                "name": "CHRIS JONES",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "SAM VAN ROSSOM",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 185
+            },
+            {
+                "name": "JONAH RADEBAUGH",
+                "position": "E",
+                "permiso": "EUR",
+                "value": 0
+            },
+            {
+                "name": "BOJAN DUBLJEVIC",
+                "position": "P",
+                "permiso": "EUR",
+                "value": 539
+            },
+            {
+                "name": "KYLE ALEXANDER",
+                "position": "P",
+                "permiso": "COT",
+                "value": 402
+            },
+            {
+                "name": "MARTIN HERMANNSSON",
+                "position": "B",
+                "permiso": "EUR",
+                "value": 305
+            },
+            {
+                "name": "JASIEL RIVERO",
+                "position": "AP",
+                "permiso": "EXT",
+                "value": 368
+            },
+            {
+                "name": "JARED HARPER",
+                "position": "B",
+                "permiso": "EXT",
+                "value": 0
+            }
+        ]
+    }
+]
